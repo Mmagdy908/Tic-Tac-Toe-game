@@ -1,0 +1,6 @@
+﻿  main.c
+D:\visual\Tic Tac Toe game\Tic Tac Toe game\main.c(42,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\visual\Tic Tac Toe game\Tic Tac Toe game\main.c(42,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\visual\Tic Tac Toe game\Tic Tac Toe game\main.c(42,17): message : the missing variadic argument 2 is required by format string '%c'
+D:\visual\Tic Tac Toe game\Tic Tac Toe game\main.c(42,17): message : this argument is used as a buffer size
+  Tic Tac Toe game.vcxproj -> D:\visual\Tic Tac Toe game\x64\Debug\Tic Tac Toe game.exe
